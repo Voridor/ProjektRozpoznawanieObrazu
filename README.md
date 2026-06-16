@@ -70,7 +70,7 @@ pip install tkinterdnd2 requests pillow
 ```
 3. Uruchom aplikację graficzną komendą:
 ```bash
-python gui_tkinter.py
+python gui.py
 ```
 
 ### Krok 3: Obsługa programu
