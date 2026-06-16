@@ -56,7 +56,7 @@ docker build -t food-classifier .
 
 3. Uruchom kontener:
 ```bash
-docker run -p 8000:8000 food-classifier
+docker run --name food-classifier -p 8000:8000 food-classifier
 ```
 
 ### Krok 2: Uruchomienie Frontend-u (GUI w Tkinter)
